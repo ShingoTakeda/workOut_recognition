@@ -17,6 +17,7 @@
 ## 使用センサ
 加速度センサ計5つ(両手首、両足首、腰の中央)
 サンプリングレート200Hz
+![センサ](https://github.com/ShingoTakeda/workOut_recognition/blob/image/img/sensor.png "sensor")
 
 ## prediction.ipyb
 行動推定用スクリプト。
